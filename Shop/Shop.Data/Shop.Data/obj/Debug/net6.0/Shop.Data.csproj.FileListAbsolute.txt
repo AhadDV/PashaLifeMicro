@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\PypTasks\Shop\Shop.Data\Shop.Data\bin\Debug\net6.0\Shop.Data.deps.json
+C:\Users\HP\Desktop\PypTasks\Shop\Shop.Data\Shop.Data\bin\Debug\net6.0\Shop.Data.runtimeconfig.json
+C:\Users\HP\Desktop\PypTasks\Shop\Shop.Data\Shop.Data\bin\Debug\net6.0\Shop.Data.dll
+C:\Users\HP\Desktop\PypTasks\Shop\Shop.Data\Shop.Data\bin\Debug\net6.0\Shop.Data.pdb
+C:\Users\HP\Desktop\PypTasks\Shop\Shop.Data\Shop.Data\bin\Debug\net6.0\Shop.Core.dll
+C:\Users\HP\Desktop\PypTasks\Shop\Shop.Data\Shop.Data\bin\Debug\net6.0\Shop.Core.pdb
+C:\Users\HP\Desktop\PypTasks\Shop\Shop.Data\Shop.Data\obj\Debug\net6.0\Shop.Data.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\PypTasks\Shop\Shop.Data\Shop.Data\obj\Debug\net6.0\Shop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\PypTasks\Shop\Shop.Data\Shop.Data\obj\Debug\net6.0\Shop.Data.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\PypTasks\Shop\Shop.Data\Shop.Data\obj\Debug\net6.0\Shop.Data.AssemblyInfo.cs
+C:\Users\HP\Desktop\PypTasks\Shop\Shop.Data\Shop.Data\obj\Debug\net6.0\Shop.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PypTasks\Shop\Shop.Data\Shop.Data\obj\Debug\net6.0\Shop.Data.csproj.CopyComplete
+C:\Users\HP\Desktop\PypTasks\Shop\Shop.Data\Shop.Data\obj\Debug\net6.0\Shop.Data.dll
+C:\Users\HP\Desktop\PypTasks\Shop\Shop.Data\Shop.Data\obj\Debug\net6.0\refint\Shop.Data.dll
+C:\Users\HP\Desktop\PypTasks\Shop\Shop.Data\Shop.Data\obj\Debug\net6.0\Shop.Data.pdb
+C:\Users\HP\Desktop\PypTasks\Shop\Shop.Data\Shop.Data\obj\Debug\net6.0\Shop.Data.genruntimeconfig.cache
+C:\Users\HP\Desktop\PypTasks\Shop\Shop.Data\Shop.Data\obj\Debug\net6.0\ref\Shop.Data.dll

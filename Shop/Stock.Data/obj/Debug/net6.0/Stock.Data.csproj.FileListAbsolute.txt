@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\PypTasks\Shop\Stock.Data\obj\Debug\net6.0\Stock.Data.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\PypTasks\Shop\Stock.Data\obj\Debug\net6.0\Stock.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\PypTasks\Shop\Stock.Data\obj\Debug\net6.0\Stock.Data.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\PypTasks\Shop\Stock.Data\obj\Debug\net6.0\Stock.Data.AssemblyInfo.cs
+C:\Users\HP\Desktop\PypTasks\Shop\Stock.Data\obj\Debug\net6.0\Stock.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PypTasks\Shop\Stock.Data\bin\Debug\net6.0\Stock.Data.deps.json
+C:\Users\HP\Desktop\PypTasks\Shop\Stock.Data\bin\Debug\net6.0\Stock.Data.dll
+C:\Users\HP\Desktop\PypTasks\Shop\Stock.Data\bin\Debug\net6.0\Stock.Data.pdb
+C:\Users\HP\Desktop\PypTasks\Shop\Stock.Data\obj\Debug\net6.0\Stock.Data.dll
+C:\Users\HP\Desktop\PypTasks\Shop\Stock.Data\obj\Debug\net6.0\refint\Stock.Data.dll
+C:\Users\HP\Desktop\PypTasks\Shop\Stock.Data\obj\Debug\net6.0\Stock.Data.pdb
+C:\Users\HP\Desktop\PypTasks\Shop\Stock.Data\obj\Debug\net6.0\ref\Stock.Data.dll
