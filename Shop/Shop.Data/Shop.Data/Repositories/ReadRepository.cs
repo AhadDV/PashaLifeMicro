@@ -16,6 +16,7 @@ public class ReadRepository<T> : IReadRepository<T> where T : class
     public IQueryable<T> GetAll(bool isTacking)
     {
         var query = Table.AsQueryable();
+        
 
         if (!isTacking)
             query = query.AsNoTrackingWithIdentityResolution();
